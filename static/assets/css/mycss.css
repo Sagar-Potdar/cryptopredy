@@ -1,0 +1,67 @@
+.login_from select,input {
+    width: 80%;
+    text-align: center;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+    margin-bottom: 10px;  
+  }
+
+
+Paitent_card
+
+
+.dr_from input {
+  width: 50%;
+  text-align: center;
+  border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom: 2px solid white;
+  color: #fff;
+  margin: 25px;  
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+.login_from select,input:focus {
+    outline-width: 0;
+}
+
+select { text-indent: 45%; }
+
+
+
+.login_from form {
+    text-align: center;
+    padding-left: 5%;
+}
+
+
+.login_from p {
+    margin-bottom: 0%;
+}
+
+
+.my-get-started-btn {
+    margin-top: 30px;
+    color: #5cb874;
+    border-radius: 4px;
+    padding: 7px 25px 8px 25px;
+    white-space: nowrap;
+    transition: 0.3s;
+    font-size: 14px;
+    border: 2px solid #5cb874;
+    display: inline-block;
+    font-weight: 600;
+    background-color: white;
+  }
+  
+  .my-get-started-btn:hover {
+    background: #5cb874;
+    color: #fff;
+  }
+
+
+
+  
